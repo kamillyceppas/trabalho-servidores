@@ -24,7 +24,6 @@ Este foi um trabalho do começo do meu segundo período da faculdade, gostei bas
 - Demonstração das habilidades de cálculo e formatação de dados em C.
 
 
-<img src="trabalho matrizes/foto1.png" width=40%/>
 <img src="trabalho matrizes/foto2.png" width=40%/>
 <img src="trabalho matrizes/foto3.png" width=40%/>
 <img src="trabalho matrizes/foto4.png" width=40%/>
